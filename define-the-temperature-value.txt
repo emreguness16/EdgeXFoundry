@@ -1,0 +1,14 @@
+{
+    "name": "temperature",
+    "description": "Ambient temperature in Celsius",
+    "min": "-50",
+    "max": "100",
+    "type": "Int64",
+    "uomLabel": "temperature",
+    "defaultValue": "0",
+    "formatting": "%s",
+    "labels": [
+        "environment",
+        "temperature"
+    ]
+}
